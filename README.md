@@ -27,6 +27,15 @@ This project presents a smart and secure **QR Code Scam Detection Tool** that ut
 - **Jupyter Notebook** – Analysis and model training
 
 ---
+## sample outputs
+
+![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr1.png)
+
+![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr2.png)
+
+![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr3.png)
+
+![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr4.png)
 
 ---
 
